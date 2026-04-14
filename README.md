@@ -1,4 +1,4 @@
-<img width="1874" height="4360" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/22ce827b-64a4-4bb6-b055-5a52b6f26613" /># Allergenicity Predictor using ESM2-150M
+ /># Allergenicity Predictor using ESM2-150M
 
 A deep learning based allergenicity prediction system built on a fine-tuned 
 ESM2-150M protein language model. The system predicts whether a given protein 
