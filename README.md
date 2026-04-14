@@ -21,6 +21,7 @@ performs attention-based motif analysis, and visualizes the protein's 3D structu
 
 ## Dataset
 AlgPred 2.0 — 20,150 protein sequences (50/50 balanced, allergenic vs non-allergenic)
+https://webs.iiitd.edu.in/raghava/algpred2/stand.html
 
 ## Results
 | Model | Accuracy | F1 | AUC-ROC |
